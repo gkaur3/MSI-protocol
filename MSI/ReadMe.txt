@@ -39,4 +39,4 @@ should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
 
-It is a simple C++ code and can be run using Visual Studio IDE by executing "MSI.sln" file 
+It is a simple C++ code and can be run using Visual Studio IDE by executing "MSI.cpp" file 
